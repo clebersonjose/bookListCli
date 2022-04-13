@@ -1,0 +1,14 @@
+{
+  "name": "bookListCli",
+  "version": "1.0.0",
+  "description": "A list of books to read",
+  "main": "index.js",
+  "author": "Cléberson José de Andrade <clebersonjosea@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "bookList": "index.js"
+  },
+  "dependencies": {
+    "commander": "^9.1.0"
+  }
+}
