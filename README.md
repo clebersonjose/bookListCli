@@ -39,9 +39,9 @@
 ![CLI Screen Shot][product-screenshot]
 
 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/clebersonjose/bookListCli.svg?style=for-the-badge
 [issues-url]: https://github.com/clebersonjose/bookListCli/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/clebersonjose/bookListCli.svg?style=for-the-badge
 [license-url]: https://github.com/clebersonjose/bookListCli/tree/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/clebersonandrade/
