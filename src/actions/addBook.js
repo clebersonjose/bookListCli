@@ -1,9 +1,7 @@
 const { join } = require('path');
 const inquirer = require('inquirer');
-
 const { getData } = require('../utils/getData');
 const { saveData } = require('../utils/saveData');
-
 const bookListFile = join(__dirname, '/../../bookList.json');
 
 const addBook = async () => {
