@@ -37,6 +37,7 @@ const addBook = async () => {
   });
 
   saveData(bookListFile, data);
+  listBooks();
 }
 
 module.exports = {
